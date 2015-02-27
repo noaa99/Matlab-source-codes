@@ -1,6 +1,6 @@
 <h1>Matlab codes</h1>
 
-<h2>Robot Measurement</h2>
+<h3>Robot Measurement</h3>
 <p>Industrial serial manipulators analysis tools. It should match Matlab version to display correct completely</p>
 <ul>
 <li>FFT Analyzer</li>
